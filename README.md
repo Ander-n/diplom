@@ -1,2 +1,2 @@
 # diplom
-https://ander-n.github.io/diplom/
+Ссылка на дипломный проект: https://ander-n.github.io/diplom/
